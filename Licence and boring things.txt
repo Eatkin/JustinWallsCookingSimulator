@@ -1,0 +1,3 @@
+All rights reserved Edward Atkin, DisOmikron (sound design) and Mark Maeur (music) with exceptions below:
+
+The easing functions i.e. scr_easeInQuad, scr_easeOutQuad are public domain functions

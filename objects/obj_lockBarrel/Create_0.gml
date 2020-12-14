@@ -1,0 +1,3 @@
+/// @description
+
+myNumber=0;
