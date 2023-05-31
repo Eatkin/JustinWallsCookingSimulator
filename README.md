@@ -7,6 +7,7 @@
 This is not a joke, this is a serious game  
 Help me, why don't you?  
 Even people like me get into trouble sometimes  
+
 People make mistakes  
 Anyway, I need help fixing mine  
 Sometimes I get drunk and do stupid things  
@@ -22,6 +23,7 @@ Zarf
 Ebb  
 Radial drilling machine  
 Oafishly  
+
 Did you get all that?  
 
 Yours Faithfully,
